@@ -15,10 +15,10 @@
 
 ## 🌈 Learn, Build, Connect
 
-- 📘 [Documentation](https://docs.qualithm.com)
-- 💬 [Discord Community](https://discord.gg/KUv2dMjv4G)
-- 📺 [YouTube Tutorials](https://www.youtube.com/@qualithm)
-- 💸 [Pricing Overview](https://qualithm.com/pricing)
+- 📘 [Docs](https://docs.qualithm.com)
+- 💬 [Join us on Discord](https://discord.gg/KUv2dMjv4G)
+- 📺 [Subscribe on YouTube](https://www.youtube.com/@qualithm)
+- 💸 [Pricing](https://qualithm.com/pricing)
 
 ## 🤗 Get in Touch
 
