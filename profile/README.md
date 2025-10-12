@@ -1,11 +1,3 @@
-# 🛰️ **Qualithm**
-
-**Build the connected future.**
-
-Qualithm unites devices, data, and automation — helping anyone bring connected ideas to life with clarity and confidence.
-
----
-
 ## 🧩 What You Can Do
 
 - **Build** – Create and connect devices within an organised workspace. Write firmware in the IDE or link through SDKs and APIs.
@@ -14,10 +6,6 @@ Qualithm unites devices, data, and automation — helping anyone bring connected
 - **Store** – Keep historical event data searchable and accessible for review and export.
 - **Collaborate** – Manage shared projects securely with roles and permissions for every contributor.
 
-> From a personal project to a production system — Qualithm adapts to how you build.
-
----
-
 ## ⚙️ The Platform
 
 - **Transparent pricing:** Start free, scale with metered usage — no lock-ins, no surprises.
@@ -25,18 +13,12 @@ Qualithm unites devices, data, and automation — helping anyone bring connected
 - **Real-time status:** [qualithm.instatus.com](https://qualithm.instatus.com)
 - **Security collaboration:** [qualithm.com/security](https://qualithm.com/security)
 
-> Reliability isn't an add-on — it's part of the product.
-
----
-
 ## 🌍 Learn, Build, Connect
 
-- 📘 [Docs](https://docs.qualithm.com)
-- 💬 [Join us on Discord](https://discord.gg/KUv2dMjv4G)
-- 🎥 [Subscribe on YouTube](https://www.youtube.com/@qualithm)
-- 💸 [Pricing](https://qualithm.com/pricing)
-
----
+- 📘 [Documentation](https://docs.qualithm.com)
+- 💬 [Discord Community](https://discord.gg/KUv2dMjv4G)
+- 🎥 [YouTube Tutorials](https://www.youtube.com/@qualithm)
+- 💸 [Pricing Overview](https://qualithm.com/pricing)
 
 ## 🤝 Get in Touch
 
@@ -44,7 +26,3 @@ Qualithm unites devices, data, and automation — helping anyone bring connected
 - Security – [security@qualithm.com](mailto:security@qualithm.com)
 - Privacy – [privacy@qualithm.com](mailto:privacy@qualithm.com)
 - Legal – [legal@qualithm.com](mailto:legal@qualithm.com)
-
----
-
-> _Complex systems shouldn't feel complicated. Qualithm brings order to connection — helping you build, automate, and understand the things you create._
