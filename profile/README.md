@@ -1,3 +1,5 @@
+> _Qualithm makes it easier to build connected things — unifying devices, data, and automation so teams can move from prototype to production without friction._
+
 ## 🪄 What You Can Do
 
 - **Build** – Create and connect devices within an organised workspace. Write firmware in the IDE or link through SDKs and APIs.
