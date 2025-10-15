@@ -1,4 +1,4 @@
-> _Qualithm makes it easier to build connected things — unifying devices, data, and automation so teams can move from prototype to production without friction._
+> _Qualithm streamlines the path from prototype to production — bringing together the moving parts of IoT — devices, data, and automation — into a clear, consistent environment built for real-world systems._
 
 ## 🪄 What You Can Do
 
