@@ -1,17 +1,17 @@
-> _Qualithm streamlines the path from prototype to production — bringing together the moving parts of IoT — devices, data, and automation — into a clear, consistent environment built for real-world systems._
+> _Qualithm streamlines the path from prototype to production &mdash; bringing together the moving parts of IoT &mdash; devices, data, and automation &mdash; into a clear, consistent environment built for real-world systems._
 
 ## 🪄 What You Can Do
 
-- **Build** – Create and connect devices within an organised workspace. Write firmware in the IDE or link through SDKs and APIs.
-- **Automate** – Send, receive, and react to events in real time with rules, functions, and webhooks.
-- **Observe** – Visualise metrics, telemetry, and logs through live dashboards and alerts.
-- **Store** – Keep historical event data searchable and accessible for review and export.
-- **Collaborate** – Manage shared projects securely with roles and permissions for every contributor.
+- **Build**: Create and connect devices within an organised workspace. Write firmware in the IDE or link through SDKs and APIs.
+- **Automate**: Send, receive, and react to events in real time with rules, functions, and webhooks.
+- **Observe**: Visualise metrics, telemetry, and logs through live dashboards and alerts.
+- **Store**: Keep historical event data searchable and accessible for review and export.
+- **Collaborate**: Manage shared projects securely with roles and permissions for every contributor.
 
 ## 🛰️ The Platform
 
-- **Transparent pricing:** Start free, scale with metered usage — no lock-ins, no surprises.
-- **99.9 % uptime:** Guaranteed under our [Service Level Agreement](https://qualithm.com/sla).
+- **Transparent pricing:** Start free, scale as you grow &mdash; no subscriptions, no surprises.
+- **99.9% uptime:** Guaranteed under our [Service Level Agreement](https://qualithm.com/sla).
 - **Real-time status:** [qualithm.instatus.com](https://qualithm.instatus.com)
 - **Security collaboration:** [qualithm.com/security](https://qualithm.com/security)
 
@@ -24,7 +24,7 @@
 
 ## 🤗 Get in Touch
 
-- Support – [support@qualithm.com](mailto:support@qualithm.com)
-- Security – [security@qualithm.com](mailto:security@qualithm.com)
-- Privacy – [privacy@qualithm.com](mailto:privacy@qualithm.com)
-- Legal – [legal@qualithm.com](mailto:legal@qualithm.com)
+- Support: [support@qualithm.com](mailto:support@qualithm.com)
+- Security: [security@qualithm.com](mailto:security@qualithm.com)
+- Privacy: [privacy@qualithm.com](mailto:privacy@qualithm.com)
+- Legal: [legal@qualithm.com](mailto:legal@qualithm.com)
