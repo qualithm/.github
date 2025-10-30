@@ -1,19 +1,20 @@
-> _Qualithm streamlines the path from prototype to production &mdash; bringing together the moving parts of IoT &mdash; devices, data, and automation &mdash; into a clear, consistent environment built for real-world systems._
+> _Qualithm brings the Internet of Things together in one clear environment, uniting devices, data, and automation to help you connect, build, and scale with confidence._
 
 ## 🪄 What You Can Do
 
-- **Build**: Create and connect devices within an organised workspace. Write firmware in the IDE or link through SDKs and APIs.
-- **Automate**: Send, receive, and react to events in real time with rules, functions, and webhooks.
-- **Observe**: Visualise metrics, telemetry, and logs through live dashboards and alerts.
-- **Store**: Keep historical event data searchable and accessible for review and export.
-- **Collaborate**: Manage shared projects securely with roles and permissions for every contributor.
+- **Connect**: Connect devices to the cloud with ease.
+- **Automate**: Automate how connected devices respond to events.
+- **Observe**: Observe connected environments in real time.
+- **Store**: Store event data for deeper insights.
+- **Collaborate**: Collaborate securely across connected environments.
+- **Scale**: Scale globally with assurance.
 
 ## 🛰️ The Platform
 
-- **Transparent pricing:** Start free, scale as you grow &mdash; no subscriptions, no surprises.
-- **99.9% uptime:** Guaranteed under our [Service Level Agreement](https://qualithm.com/sla).
-- **Real-time status:** [qualithm.instatus.com](https://qualithm.instatus.com)
-- **Security collaboration:** [qualithm.com/security](https://qualithm.com/security)
+- **Transparent pricing:** Start free and pay only for what you use &mdash; no subscriptions, no surprises.
+- **99.9% uptime:** Guaranteed reliability under our [Service Level Agreement](https://qualithm.com/sla).
+- **Real-time status:** Check live updates at [qualithm.instatus.com](https://qualithm.instatus.com)
+- **Security collaboration:** Review practices at [qualithm.com/security](https://qualithm.com/security)
 
 ## 🌈 Learn, Build, Connect
 
